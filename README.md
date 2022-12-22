@@ -1,4 +1,4 @@
-# Practicing Data Structures and Algorithmin in Java.
+# Practicing Data Structures and Algorithm in Java.
 
 In this repository you will find codes realted to various data structures
 starting right from basic pattern printing to advanced ones. 
